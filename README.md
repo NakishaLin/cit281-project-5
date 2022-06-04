@@ -7,4 +7,5 @@ This project we are trying to develop a game.
 We have to practice the construction method, switch statement, Array map() and forEach() methods.  
 
 Here is a output of my monster game 
+
 <img src="monster.png" width= 400 height= 200>
